@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="26sp"
-            android:text="Minesweeper"
+            android:text="@string/minesweeper"
             android:textColor="#9C27B0"
             android:layout_margin="20dp"/>
     </com.facebook.shimmer.ShimmerFrameLayout>
@@ -36,13 +36,13 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnFlag"
         android:layout_margin="10dp"
-        android:textOff="Flag Off"
-        android:textOn="Flag On"/>
+        android:textOff="@string/flag_off"
+        android:textOn="@string/flag_on"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btnReset"
-        android:text="Reset"
+        android:text="@string/reset"
         android:layout_margin="10dp"
         />
 

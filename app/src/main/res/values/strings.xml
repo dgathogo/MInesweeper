@@ -7,4 +7,9 @@
     <string name="lost_text">You lost!</string>
     <string name="color_pink">#a458a7</string>
     <string name="welcome">Welcome to Minesweeper. Click start to play.\n \n Watch out for mines!</string>
+    <string name="flag_off">Flag Off</string>
+    <string name="flag_on">Flag On</string>
+    <string name="reset">Reset</string>
+    <string name="minesweeper">Minesweeper</string>
+    <string name="start">Start</string>
 </resources>
