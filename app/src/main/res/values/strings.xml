@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="win_game">You win the Game!!</string>
+    <string name="lose_game">You lost the game.</string>
+    <string name="green_color">#87aa55</string>
+    <string name="won_text">Congratulations!!\n You won!</string>
+    <string name="lost_text">You lost!</string>
+    <string name="color_pink">#a458a7</string>
+</resources>
